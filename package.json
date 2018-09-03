@@ -21,6 +21,8 @@
   "homepage": "https://github.com/AXV1140/demo-app#readme",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
   }
-  
 }
