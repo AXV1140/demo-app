@@ -1,0 +1,25 @@
+{
+  "name": "tridentproducts",
+  "version": "1.0.0",
+  "description": "its a demo app on behalf of trident solutions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXV1140/demo-app.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Anurag Vatsa & Kaushal Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AXV1140/demo-app/issues"
+  },
+  "homepage": "https://github.com/AXV1140/demo-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
